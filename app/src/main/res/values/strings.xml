@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">CurtCounterApp</string>
+  <string name="team_init_score">0</string>
+  <string name="score_one">1 point</string>
+  <string name="score_two">2 point</string>
+  <string name="score_three">3 point</string>
+  <string name="label_reset">Reset Scores!!</string>
+  <string name="label_team_a">Team A</string>
+  <string name="label_team_b">Team B</string>
+
+</resources>
